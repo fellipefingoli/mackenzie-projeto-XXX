@@ -1,7 +1,7 @@
-# Objetos Inteligentes 2º sem. 2018
+# Objetos Inteligentes Conectados 2º sem. 2018
 
 ## Turma J11
-## Projeto: "Alimentador Automátio de Aquário"
+## Projeto: "Monitoramento da Alimentação de Aquário"
 ## Integrantes do grupo:
 
 * Fellipe Izau de Farias Fingoli    TIA: 31142737

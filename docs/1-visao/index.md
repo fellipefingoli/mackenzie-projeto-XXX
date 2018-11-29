@@ -1,62 +1,51 @@
-# Documento de Visão do Projeto "NOME DO PROJETO"
+# Documento de Visão do Projeto "Monitoramento de Alimentador de Aquário"
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, 
+Este documento apresenta uma solução de software para o projeto *Monitoramento de Alimentador de Aquário*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas.
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* etc.
+* Alimentar peixes em um aquário de maneira remota, e sem a necessidade de
+operacional humano, utilizando o acionamento remoto do dispositivo.
+* Medir a temperatura do aquário e informar remotamente
 
 ## Problema
 
-* Descrição do problema: ___
-* Quem é afetado pelo problema: ____
-* Impacto no negócio: ___
-* Benefícios de uma boa solução: ___
-
-## Definições, abreviações e outros termos do domínio do problema
-
-* Definição 1
-* Definição 2
-* Definição 3
-* etc.
+* Descrição do problema: Alimentar peixes sem o operacional humano
+e monitorar remotamente a temperatura
+* Quem é afetado pelo problema: Pessoas que possuem aquários com peixes
+em suas casas, donos de pesqueiros, criadores de peixes ou donos de petShop
+* Impacto no negócio: Diminuição do custo com operacional humano e necessidade 
+de tempo para alimentação de peixes
+* Benefícios de uma boa solução: Uma boa solução irá diminuir
+consideravelmente o operacional envolvido na alimentação de peixes, trazendo
+assim mais comodidade as pessoas.
 
 ## Integração com outros sistemas
 
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+* O arduino responsavel por controlar o alimentador, será integrado com a aplicação
+mobile MQTT Dash
  
 ## Interessados
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
+* Pessoas com aquários com peixes em suas casas que não possuem muito tempo
+para se dedicar no cuidado do aquário
+* Donos de petshops que trabalham com peixes
+* Donos de criadores de peixes
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+* Pessoa responsável por alimentar peixe(s)
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* Alimentar peixes remotamente
+* Medir a temperatura do aquário
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
+* Necessidade de internet e energia elétrica no local do aquário
+* Necessidade de internet no dispotivo remoto
 
 ## Protótipos
 
@@ -65,11 +54,3 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 ![](proto1.png)
 
 Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
-
-### Protótipos para funcionalidade 2
-
-![](proto2.png)
-
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
-
-### Protótipos para funcionalidade N

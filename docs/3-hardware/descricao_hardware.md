@@ -4,6 +4,8 @@ Os componentes serão utilizados em sincronia para que o protótipo seja capaz d
 
 ## Diagrama elétrico
 
+![](Page-1-Image-1.jpg)
+
 ## Componentes:
 * Placa WeMos D1 R2 Wifi ESP8266
 

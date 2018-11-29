@@ -46,11 +46,3 @@ para se dedicar no cuidado do aquário
 
 * Necessidade de internet e energia elétrica no local do aquário
 * Necessidade de internet no dispotivo remoto
-
-## Protótipos
-
-### Protótipos para funcionalidade 1
-
-![](proto1.png)
-
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
